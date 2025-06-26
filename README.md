@@ -61,13 +61,6 @@ The project takes a number input and converts it into both **metric** and **impe
 
 ---
 
-## 🌐 Live Demo
-
-> If published, your GitHub Pages live link will go here:  
-[https://your-username.github.io/unit-conversion-project](https://your-username.github.io/unit-conversion-project)
-
----
-
 ## 👨‍💻 Author
 
 **Yousef Attar**  
